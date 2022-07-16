@@ -1,0 +1,7 @@
+name: AquariaCore
+version: 1.0.0
+authors:
+  - Layttos
+  - Viazel
+main: fr.aquaria.spigot.AquariaCore
+description: Gestion du serveur
